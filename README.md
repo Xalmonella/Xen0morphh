@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Salman and I'm a Student At Polythecnic Bandung Major Study in Informatics Engineering, from Indonesia.</h2>
+<h2 align="left">Hi.</h2>
 
 ###
 
